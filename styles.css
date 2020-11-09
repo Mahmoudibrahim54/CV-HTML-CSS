@@ -85,6 +85,12 @@ hr{
 .footer-link{
   padding: 20px;
   color: #11999E;
+  text-decoration: none;
+
+}
+
+.footer-link:hover{
+  color: #EAF6F6;
 }
 .footer-copywrites{
   color: #EAF6F6;
